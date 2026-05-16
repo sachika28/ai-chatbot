@@ -26,4 +26,5 @@ and Streamlit — runs directly in your browser!
 5. Run: `streamlit run chatbot.py`
 
 ## Author
-B.Sc. AI & Data Science Student | KPR College | Bharathiar University
+Sachika S
+B.Sc. AI & Data Science Student
